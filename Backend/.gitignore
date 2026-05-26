@@ -1,0 +1,25 @@
+# Node modules
+/node_modules
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# dotenv environment files
+.env
+
+# Optional npm cache directory
+.npm
+
+# OS files
+.DS_Store
+
+# Coverage directory used by test runners
+/coverage
+
+# Production build output (if used)
+dist
+build
